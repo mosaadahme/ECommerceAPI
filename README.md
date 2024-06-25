@@ -53,5 +53,3 @@ Comprehensive setup of ECommerceAPI solution with advanced architectural pattern
 - Documentation and Setup:
   - Included XML documentation for core methods and classes to improve code readability and maintainability.
   - Provided initial setup scripts and environment configurations to streamline local development and ensure consistency across development environments.
-
-This commit establishes a robust foundation for the ECommerceAPI solution, integrating advanced architectural patterns and essential services, and setting the stage for a scalable and maintainable e-commerce platform."
